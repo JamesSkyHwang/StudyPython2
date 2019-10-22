@@ -17,7 +17,7 @@ data2=data1.findAll('a',{'class':'title'})
 
 #텍스트만 추출
 '''
-title_list = []
+title_list = []sdas
 for t in data2:
     title_list.append(t.text)
 아래 코드로 대체
